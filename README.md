@@ -7,4 +7,4 @@
     - 'git config --global user.email "meuEmail@gmail.com"' *configurar e-mail*
     - 'git --help' *verificar comandos possíveis*
 
-- Primeiros comandos
+- Primeiros comandos *ex*
