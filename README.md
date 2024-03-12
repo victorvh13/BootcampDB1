@@ -15,3 +15,7 @@
     - git push *enviar para GITHUB*
     - git commit -m *fechar pacote*
 
+    ## Segunda aula
+
+    -git commits
+    -git 
