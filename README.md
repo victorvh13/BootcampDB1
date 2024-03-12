@@ -8,3 +8,10 @@
     - 'git --help' *verificar comandos possíveis*
 
 - Primeiros comandos *ex*
+
+    - git add . *adicionar no git hub*
+    - git cod . *abre VS CODE*
+    - git status *mostra alterações*
+    - git push *enviar para GITHUB*
+    - git commit -m *fechar pacote*
+
