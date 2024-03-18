@@ -1,0 +1,10 @@
+enum Games {
+    LOL = "League of Legends",
+    BF = "Battlefield",
+    CS = "Counter-Strike",
+    GTA = "Grand Theft Auto",
+}
+
+const game = Games.CS;
+
+console.log(game);

@@ -18,4 +18,4 @@
     ## Segunda aula
 
     -git commits
-    -git 
+    -git log *exibe todos os commits*
